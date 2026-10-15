@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "profiles": {
+    "custom": {
+      "name": "Custom SAMD21J18 (Native USB)",
+      "source": "bootloader/arduino-profile",
+      "required_cores": ["arduino:samd@1.8.14"],
+      "integrity": {
+        "manifest": "bootloader/firmware/manifest.json",
+        "field": "profile_sha256",
+        "platform": "custom/samd",
+        "manifest_copies": ["bootloaders/custom/manifest.json"]
+      }
+    }
+  }
+}

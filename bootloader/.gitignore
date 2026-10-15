@@ -1,0 +1,5 @@
+__pycache__/
+.build/
+.validation/
+firmware/objects/
+build.log

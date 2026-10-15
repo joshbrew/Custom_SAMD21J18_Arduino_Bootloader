@@ -1,0 +1,48 @@
+{
+  "revision": "custom-j18-example",
+  "version": "0.1.0",
+  "mcu": "__SAMD21J18A__",
+  "crystalless": false,
+  "usb": {
+    "manufacturer": "Custom",
+    "product": "Custom SAMD21",
+    "vid": 9025,
+    "boot_pid": 77,
+    "app_pid": 32845
+  },
+  "boot_indicator": false,
+  "pins": {
+    "LED": "PA05",
+    "UART0_TX": "PA22",
+    "UART0_RX": "PA23",
+    "UART1_TX": "PA16",
+    "UART1_RX": "PA17",
+    "SDA": "PA08",
+    "SCL": "PA09",
+    "SPI0_MOSI": "PB12",
+    "SPI0_SCK": "PB13",
+    "SPI0_MISO": "PB11",
+    "CS0": "PB10",
+    "SPI1_MOSI": "PB16",
+    "SPI1_SCK": "PB17",
+    "SPI1_MISO": "PB22",
+    "CS1": "PB14"
+  },
+  "safe_outputs": {},
+  "high_impedance": [
+    "UART0_TX",
+    "UART0_RX",
+    "UART1_TX",
+    "UART1_RX",
+    "SDA",
+    "SCL",
+    "SPI0_MOSI",
+    "SPI0_SCK",
+    "SPI0_MISO",
+    "CS0",
+    "SPI1_MOSI",
+    "SPI1_SCK",
+    "SPI1_MISO",
+    "CS1"
+  ]
+}

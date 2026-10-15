@@ -1,0 +1,39 @@
+{
+  "fqbn": "arduino:samd:arduino_zero_native",
+  "bootloader": "official",
+  "bootloader_sha256": "89b9255d2f0bfa90371772b4e2eff78aa6069c6e612eb35737e964074ad8512b",
+  "bootloader_crc32": "032dc51e",
+  "hardware_tested": false,
+  "source_sha256": {
+    "Blink.ino": "b403bd9ac681817799c21407d15a0bc8b238e473f0e294a2c8c5cebd24e54b00",
+    "J18BuildOverrides.h": "aa0d5d97c1485d51767f492f3282ee8944a294cfa008d34237d81e871baf0192"
+  },
+  "build_selection_header": "#pragma once\n#include <Arduino.h>\n#undef PIN_LED_TXL\n#undef PIN_LED_RXL\n#define J18_CORE_USB_LEDS_DISABLED 1\n#undef J18_CUSTOM_BOOTLOADER_BYTES\n#undef J18_CUSTOM_BOOTLOADER_CRC32\n#define J18_CUSTOM_BOOTLOADER_BYTES 6504u\n#define J18_CUSTOM_BOOTLOADER_CRC32 0x032dc51eul\n",
+  "images": {
+    "Blink.ino.bin": {
+      "sha256": "e46585e86605a8e2f1df1befa6caa1b84bc1cc78aae029a53d2f1d151d050ecc",
+      "bytes": 11488,
+      "flash_offset": 8192
+    },
+    "Blink.ino.with_bootloader.bin": {
+      "sha256": "9cf0d14656f253d89784833e04b592a3b15417712c021b9ca7d216eb2fdb7f9c",
+      "bytes": 19680,
+      "flash_offset": 8192
+    },
+    "firmware.sketch.bin": {
+      "sha256": "e46585e86605a8e2f1df1befa6caa1b84bc1cc78aae029a53d2f1d151d050ecc",
+      "bytes": 11488,
+      "flash_offset": 8192
+    },
+    "firmware.with_bootloader.bin": {
+      "sha256": "9cf0d14656f253d89784833e04b592a3b15417712c021b9ca7d216eb2fdb7f9c",
+      "bytes": 19680,
+      "flash_offset": 0
+    },
+    "samd21_sam_ba.bin": {
+      "sha256": "89b9255d2f0bfa90371772b4e2eff78aa6069c6e612eb35737e964074ad8512b",
+      "bytes": 6504,
+      "flash_offset": 0
+    }
+  }
+}

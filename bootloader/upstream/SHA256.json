@@ -1,0 +1,154 @@
+[
+  {
+    "name": "board_definitions_arduino_mkr1000.h",
+    "sha256": "ae5084973dd45efda94fa00650e20ddc4ad7a93fe8b6d1cc08b1452564bc8842"
+  },
+  {
+    "name": "board_definitions_arduino_mkrfox1200.h",
+    "sha256": "b6171064dac7a31a678b17e8e80fe3fe941a6a608a9ae976bd40ccb3b1d0539a"
+  },
+  {
+    "name": "board_definitions_arduino_mkrgsm1400.h",
+    "sha256": "e7ca5762c34326dd2e7f0b71cd6b921db8db1b739e163e24390b2c91a0613a1c"
+  },
+  {
+    "name": "board_definitions_arduino_mkrnb1500.h",
+    "sha256": "5e1d760510372e0d38af26b45ac25c657a4b1de88e27b6c6770a6f66eb077f06"
+  },
+  {
+    "name": "board_definitions_arduino_mkrvidor4000.h",
+    "sha256": "82ea99adb86eb28e33f78b7979fee05dfbf8af6571dd643e9d28c19ee8d5c8d8"
+  },
+  {
+    "name": "board_definitions_arduino_mkrwan1300.h",
+    "sha256": "d0dd9ec4eb1f7da05be2d744af5d2693d9078c8550749734780e8ca87a1be46f"
+  },
+  {
+    "name": "board_definitions_arduino_mkrwan1310.h",
+    "sha256": "1833df6abae6b4a1a37bd7363da37bd48acc19c954e52c3cdc7ca692afe9b064"
+  },
+  {
+    "name": "board_definitions_arduino_mkrwifi1010.h",
+    "sha256": "0211f556343f07321cfce0b69f67590cdf9962516af9ea4e49ade91c62ec509c"
+  },
+  {
+    "name": "board_definitions_arduino_mkrzero.h",
+    "sha256": "067033d7dc61a2b70c1889def50993312de7728b14948c34e03ab37cbef436a8"
+  },
+  {
+    "name": "board_definitions_arduino_nano_33_iot.h",
+    "sha256": "bba6e8128215e6c34e83b9ce4514b3c38d17c7d758cc553b79ec9e1c87a52f39"
+  },
+  {
+    "name": "board_definitions_arduino_zero.h",
+    "sha256": "fb7127bd47167a3c8f69e7da6774534aef5eb930fdc6dea05d140810ba8a294e"
+  },
+  {
+    "name": "board_definitions.h",
+    "sha256": "39d8ad1ce960d3df73ae07f66d7b9c90175c17e677788acd3af8353b2baa4353"
+  },
+  {
+    "name": "board_driver_i2c.c",
+    "sha256": "51af4a4b65840983697c9b74bd5c5e75fc2ec442ec73a164b8beb0edf3194cb6"
+  },
+  {
+    "name": "board_driver_i2c.h",
+    "sha256": "464a6d40ce69064334b875af61bcc3943a470f3de44f9e83287307388fa85013"
+  },
+  {
+    "name": "board_driver_jtag.c",
+    "sha256": "ff1f3bf8bab801f6e70d87ba3eacac06d430b0891e96e4be46f93ce789087933"
+  },
+  {
+    "name": "board_driver_jtag.h",
+    "sha256": "6a678fccbfd1b58b95c68d7b7e245b72b5f985634de04ace717751e3b8568135"
+  },
+  {
+    "name": "board_driver_led.c",
+    "sha256": "2c9d41de71bcfa2b504306b16f8a8e2fde2a12e419455d903b12b109d94fa212"
+  },
+  {
+    "name": "board_driver_led.h",
+    "sha256": "e580eb4064cf7cdb970f675adf400bb5bbad2fa9efc9adfa67bd723487d40b89"
+  },
+  {
+    "name": "board_driver_pmic.c",
+    "sha256": "8117535e1e6ca8c51b663a3db28becd36a5511c6692b0bc65ebf1c35e0c642e7"
+  },
+  {
+    "name": "board_driver_pmic.h",
+    "sha256": "74075c6b29950d0e9c250b284762214c00bd8bcf0c4b87cfe3d176e627c83194"
+  },
+  {
+    "name": "board_driver_serial.c",
+    "sha256": "b422f2ef75e14e13f09a8114e462a7350fae48627884e5f8efaba22b2c2788ee"
+  },
+  {
+    "name": "board_driver_serial.h",
+    "sha256": "a344762bf23521edd07b2b790afda8f8a1ee78db9497367026095c6beebc5373"
+  },
+  {
+    "name": "board_driver_usb.c",
+    "sha256": "0bcbba6cd02975ca3d0d1ae7e29a3f306da555564a2dd7dd7f970eb8fbdc63ec"
+  },
+  {
+    "name": "board_driver_usb.h",
+    "sha256": "09ca53944ef992fd2c860d12fffa358137b71406fee77851f7603d480b10259b"
+  },
+  {
+    "name": "board_init.c",
+    "sha256": "4e46473fcd4c77e7813a2ac1678e63b2b4f74eab514774e286c2edaceaafa35a"
+  },
+  {
+    "name": "board_startup.c",
+    "sha256": "b8a57f58c3bb19babe987bcad803d4cfc1b92cac20df75066518f6462bd20ff1"
+  },
+  {
+    "name": "bootloader_samd21x18.ld",
+    "sha256": "293c00a8e2d536c1ac2b025ecd490a75018faa54c2606a84e45eef071d56e94b"
+  },
+  {
+    "name": "main.c",
+    "sha256": "8201546da8778fa1132177585c4cfb7984cc1586f729d7458ec33d293145e970"
+  },
+  {
+    "name": "Makefile",
+    "sha256": "e68dfb5f0160260c29d3cbcabd5741440232f28d353e0f844fe65971f5804a10"
+  },
+  {
+    "name": "README.md",
+    "sha256": "7ff29ce471e8bb35c578258a30901f94c363c862b7fb9dc6f8ef68bc0e3dc90c"
+  },
+  {
+    "name": "sam_ba_cdc.c",
+    "sha256": "626e354c1f29fed1ce8edda22e882947d3c42bff6b995346693e8a8b1353cba2"
+  },
+  {
+    "name": "sam_ba_cdc.h",
+    "sha256": "e11debe51064645c68aa36a2926aa87df752c5b64a6ea6c79b08dcf9106f8a43"
+  },
+  {
+    "name": "sam_ba_monitor.c",
+    "sha256": "028b11b673328296b037da8e788e6560a4f2678bbb79c39c3a4deb89bca675f4"
+  },
+  {
+    "name": "sam_ba_monitor.h",
+    "sha256": "1d12fb3f9bf06c10596c49d0f1b58ec5944de2ca4c51f84e6eb40d8183225506"
+  },
+  {
+    "name": "sam_ba_serial.c",
+    "sha256": "c9d360760a32420b4e5208337a6c7e383f556f772dae34b6c45a856d918b6c61"
+  },
+  {
+    "name": "sam_ba_serial.h",
+    "sha256": "30107e1f3517125b1d128d0ba7c325032fdb90995cbeb1426f493bba414a6b04"
+  },
+  {
+    "name": "sam_ba_usb.c",
+    "sha256": "3fc82760236cb2c8c718a6f99938052d6a4c2fd8b3bf422defeec85d941e0603"
+  },
+  {
+    "name": "sam_ba_usb.h",
+    "sha256": "cb739fcce153fa1737580999a44e489674fd303cb8c56067e570228f5901225a"
+  }
+]

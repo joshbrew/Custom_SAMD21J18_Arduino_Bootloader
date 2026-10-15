@@ -1,0 +1,32 @@
+# Generated from board.json. Core recipes inherited from arduino:samd.
+custom_j18.name=Custom SAMD21J18 (Native USB)
+custom_j18.build.core=arduino:arduino
+custom_j18.build.variant=custom_j18
+custom_j18.build.board=SAMD_CUSTOM_J18
+custom_j18.build.mcu=cortex-m0plus
+custom_j18.build.f_cpu=48000000L
+custom_j18.build.extra_flags=-D__SAMD21J18A__ -DJ18_REVISED_SPI0=1 -DJ18_REVISED_SPI1=1 {build.usb_flags} -DCRYSTALLESS
+custom_j18.build.ldscript=flash_with_bootloader.ld
+custom_j18.build.variant_system_lib=
+custom_j18.build.vid=0x2341
+custom_j18.build.pid=0x804d
+custom_j18.build.usb_product="Custom SAMD21"
+custom_j18.build.usb_manufacturer="Custom"
+custom_j18.upload.tool=arduino:bossac
+custom_j18.upload.tool.default=arduino:bossac
+custom_j18.upload.protocol=sam-ba
+custom_j18.upload.maximum_size=253952
+custom_j18.upload.maximum_data_size=32760
+custom_j18.upload.use_1200bps_touch=true
+custom_j18.upload.wait_for_upload_port=true
+custom_j18.upload.native_usb=true
+custom_j18.bootloader.file=custom/samd21_sam_ba.bin
+custom_j18.bootloader.size=0x2000
+custom_j18.vid.0=0x2341
+custom_j18.pid.0=0x804d
+custom_j18.upload_port.0.vid=0x2341
+custom_j18.upload_port.0.pid=0x804d
+custom_j18.vid.1=0x2341
+custom_j18.pid.1=0x4d
+custom_j18.upload_port.1.vid=0x2341
+custom_j18.upload_port.1.pid=0x4d

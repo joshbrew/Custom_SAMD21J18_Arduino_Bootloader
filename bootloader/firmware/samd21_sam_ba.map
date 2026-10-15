@@ -1,0 +1,455 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (exit)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (__libc_init_array)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (memset)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o) (_exit)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                              C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o (memcpy)
+c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+                              C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+udd_ep_out_cache_buffer
+                    0x80              C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+j                   0x1               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+udd_ep_in_cache_buffer
+                    0x80              C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+length              0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ptr                 0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+command             0x1               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+pulSketch_Start_Address
+                    0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+MAX_FLASH           0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+PAGES               0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+i                   0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+sam_ba_cdc          0xc               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+usb_endpoint_table  0x80              C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+PAGE_SIZE           0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+data                0x40              C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ptr_data            0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ptr_monitor_if      0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+sp                  0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+current_number      0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+u32tmp              0x4               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+ .data          0x00000000        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+ .text          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+ .data          0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+ .bss           0x00000000        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00002000         xr
+RAM              0x20000000         0x00007c00         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+START GROUP
+LOAD C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a
+END GROUP
+START GROUP
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m\libgcc.a
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a
+END GROUP
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+LOAD c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+                0x00000000                . = ORIGIN (FLASH)
+
+.vectors        0x00000000       0x40
+ *(.isr_vector)
+ .isr_vector    0x00000000       0x40 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                0x00000000                exception_table
+
+.text           0x00000040     0x13a8
+ *(.text*)
+ .text          0x00000040       0x48 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .text          0x00000088      0x808 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                0x00000830                custom_enter_application
+                0x00000844                Reset_Handler
+ .text.startup  0x00000890      0x850 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                0x00000890                main
+ .text.memset   0x000010e0       0x10 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                0x000010e0                memset
+ .text.memcpy   0x000010f0       0x12 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                0x000010f0                memcpy
+ .text          0x00001102        0xe c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+                0x00001102                strlen
+ *(.init)
+ .init          0x00001110        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+                0x00001110                _init
+ .init          0x00001114        0x8 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+ *(.fini)
+ .fini          0x0000111c        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+                0x0000111c                _fini
+ .fini          0x00001120        0x8 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x00001128      0x268 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x00001390       0x52 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                 0x55 (size before relaxing)
+ *(.eh_frame*)
+ *fill*         0x000013e2        0x2 
+ .eh_frame      0x000013e4        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x000013e4        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+
+.glue_7         0x000013e8        0x0
+ .glue_7        0x000013e8        0x0 linker stubs
+
+.glue_7t        0x000013e8        0x0
+ .glue_7t       0x000013e8        0x0 linker stubs
+
+.vfp11_veneer   0x000013e8        0x0
+ .vfp11_veneer  0x000013e8        0x0 linker stubs
+
+.v4_bx          0x000013e8        0x0
+ .v4_bx         0x000013e8        0x0 linker stubs
+
+.iplt           0x000013e8        0x0
+ .iplt          0x000013e8        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+
+.rel.dyn        0x000013e8        0x0
+ .rel.iplt      0x000013e8        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000013e8                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000013e8                __exidx_end = .
+                0x000013e8                __etext = .
+                0x00002000                PROVIDE (__sketch_vectors_ptr, (ORIGIN (FLASH) + LENGTH (FLASH)))
+
+.data           0x20000000       0x5c load address 0x000013e8
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x51 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                0x20000054                . = ALIGN (0x4)
+ *fill*         0x20000051        0x3 
+                0x20000054                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000054                PROVIDE (__preinit_array_end, .)
+                0x20000054                . = ALIGN (0x4)
+                0x20000054                PROVIDE (__init_array_start, .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000054        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+                0x20000058                PROVIDE (__init_array_end, .)
+                0x20000058                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000058        0x4 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x2000005c                . = ALIGN (0x4)
+                0x2000005c                __data_end__ = .
+
+.igot.plt       0x2000005c        0x0 load address 0x00001444
+ .igot.plt      0x2000005c        0x0 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+
+.bss            0x2000005c      0x244 load address 0x00001444
+                0x2000005c                . = ALIGN (0x4)
+                0x2000005c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x2000005c       0x1c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .bss           0x20000078      0x228 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+ *(COMMON)
+                0x200002a0                . = ALIGN (0x4)
+                0x200002a0                __bss_end__ = .
+
+.heap           0x200002a0        0x0
+                0x200002a0                __end__ = .
+                [!provide]                PROVIDE (end, .)
+ *(.heap*)
+                0x200002a0                __HeapLimit = .
+
+.stack_dummy    0x200002a0        0x0
+ *(.stack*)
+                0x20007c00                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20007c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20007c00                PROVIDE (__stack, __StackTop)
+                0x20007bff                __ram_end__ = ((ORIGIN (RAM) + LENGTH (RAM)) - 0x1)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\samd21_sam_ba.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x30 C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+ .ARM.attributes
+                0x0000007a       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000a6       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000000d2       0x1c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000000ee       0x2c c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtend.o
+ .ARM.attributes
+                0x0000011a       0x1e c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtn.o
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                 0x7f (size before relaxing)
+
+.debug_frame    0x00000000       0x48
+ .debug_frame   0x00000000       0x20 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000020       0x28 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+
+Cross Reference Table
+
+Symbol                                            File
+HardFault_Handler                                 C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+LED_pulse                                         C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_led.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+MAX_FLASH                                         C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+NMI_Handler                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+PAGES                                             C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+PAGE_SIZE                                         C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+PendSV_Handler                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+Reset_Handler                                     C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+RomBOOT_ExtendedCapabilities                      C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+RomBOOT_Version                                   C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+SVC_Handler                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+SysTick_Handler                                   C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+USB_Configure                                     C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_Init                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_IsConfigured                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+USB_Open                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_Read                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+USB_Read_blocking                                 C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+USB_SendStall                                     C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_SendString                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_SendZlp                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_SetAddress                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+USB_Write                                         C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+__StackTop                                        C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+__bss_end__                                       C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+__bss_start__                                     C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+__call_exitprocs                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+__data_end__                                      C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+__data_start__                                    C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+__deregister_frame_info                           c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+__dso_handle                                      c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+__etext                                           C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+__init_array_end                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+__libc_init_array                                 c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+__preinit_array_end                               c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crtbegin.o
+__sf_fake_stderr                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+__sketch_vectors_ptr                              C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+__stack                                           c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+_exit                                             c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libnosys.a(_exit.o)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+_global_impure_ptr                                c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-impure.o)
+_init                                             c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v6-m/crti.o
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+_start                                            c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+atexit                                            c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+b_sam_ba_interface_usart                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+b_security_enabled                                C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+b_terminal_mode                                   C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+board_init                                        C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_init.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+call_applet                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_getc                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_is_rx_ready                                   C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_putc                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_read_buf                                      C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_read_buf_xmd                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+cdc_write_buf                                     C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+command                                           C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+current_number                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+custom_board_early_init                           C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\custom_board.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+custom_enter_application                          C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+data                                              C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+erased_from                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+exception_table                                   C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+exit                                              c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-exit.o)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+g_interrupt_enabled                               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_init.o (symbol from plugin)
+hardware_init_hook                                c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+i                                                 C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+j                                                 C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ledDirection                                      C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_led.o (symbol from plugin)
+ledKeepValue                                      C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_led.o (symbol from plugin)
+ledTargetValue                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_led.o (symbol from plugin)
+length                                            C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+line_coding                                       C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+main                                              C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_startup.o (symbol from plugin)
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+memcpy                                            c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+memset                                            c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-memset.o)
+                                                  C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+                                                  c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ptr                                               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ptr_data                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+ptr_monitor_if                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+pulSketch_Start_Address                           C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+rxLEDPulse                                        C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+sam_ba_cdc                                        C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_cdc.o (symbol from plugin)
+sam_ba_monitor_init                               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+sam_ba_monitor_run                                C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+sam_ba_monitor_sys_tick                           C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+sam_ba_putdata_term                               C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+sam_ba_usb_CDC_Enumerate                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+serial_add_crc                                    C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_serial.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+software_init_hook                                c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+sp                                                C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+strlen                                            c:/users/brews/appdata/local/arduino15/packages/arduino/tools/arm-none-eabi-gcc/7-2017q4/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc_nano.a(lib_a-strlen.o)
+                                                  C:\Users\brews\AppData\Local\Temp\ccT5VKnX.ltrans0.ltrans.o
+txLEDPulse                                        C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+u32tmp                                            C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)
+udd_ep_in_cache_buffer                            C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+udd_ep_out_cache_buffer                           C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+usb_endpoint_table                                C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\board_driver_usb.o (symbol from plugin)
+usb_init                                          C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_usb.o (symbol from plugin)
+                                                  C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\main.o (symbol from plugin)
+usbcdc_if                                         C:\Users\brews\Documents\Github\Custom_SAMD21_Arduino_Bootloader\bootloader\.build\boot-d378061c9d7e4e83b26581cedfb26a13\objects\sam_ba_monitor.o (symbol from plugin)

@@ -1,0 +1,22 @@
+# Scratch files; reviewed source and release firmware remain trackable.
+.build/
+**/.build/
+**/.j18-build/
+**/.validation/
+**/build/
+**/node_modules/
+**/__pycache__/
+**/.j18-tool-backups/
+*.pyc
+*.obj
+*.o
+*.exe
+dist/
+/SAMD21_Custom_Bringup.zip
+.DS_Store
+Thumbs.db
+**/.validation-disassembly.txt
+# Tools copied into sketches are generated from the canonical tools/ folders.
+sketches/*/Windows_J18_Tools/
+sketches/*/RPi_J18_Tools/
+sketches/*/Mac_J18_Tools/

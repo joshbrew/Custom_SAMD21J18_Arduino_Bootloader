@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=J18 - Flash separate USB ST-LINK
+Comment=Compile the nearby Arduino sketch and flash SAMD21J18
+Exec=python3 -c "import os,sys,urllib.parse; p=sys.argv[1]; p=urllib.parse.unquote(urllib.parse.urlparse(p).path) if p.startswith('file:') else p; os.execv(sys.executable,[sys.executable,os.path.join(os.path.dirname(p),'j18_rpi.py'),'--mode','separate','--adapter','stlink','--pause'])" %k
+Icon=utilities-terminal
+Terminal=true
+StartupNotify=false
+Categories=Development;
